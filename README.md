@@ -10,11 +10,14 @@ The task of this assignment from V. Isualize was to create a summary DataFrame o
 ## Summary
 The analysis of the data shows that a majority of the rides that make the most profit would be from the Urban core and that most riders are in the Urban or city. However, the most profit per driver is made in the Rural area but that can be contributed to the distance that is traveled between pickups and drops offs. The city offers the most fares due to the number of riders and drivers.
 
-
-
 ## Challenge Overview
-The challenge included gathering the DataFrame and summarizing key pieces of the data. As well as dive into the data to analyze subsets and then compare and contrast the data.
+The challenge included taking two data sources and merging them into one data source to extrapolate the needed information that would suffice the ask. 
 
+This started with using the Pandas functions to get the total number of rides, total number of drivers and the fares for each city type. Then I had to create a multiple line graph that shows the total fares for each week by city type
 
 ## Challenge Summary
-After downloading the student starter code and using jupyter notebook I was able to code the specific deliverables.  
+The data for each city type clearly show that majority of riders are in the city. Which is not all that hard to believe because the majority any major city most of population make up the city.
+## Disparities among the city types
+ 
+![](summary_of_data.png)
+
